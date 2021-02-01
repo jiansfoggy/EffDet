@@ -1,6 +1,6 @@
 # EfficientDet: Scalable and Efficient Object Detection
 
-run ./strt_trn.sh start training.  
+run ./strt_trn.sh to start training.  
 change datapath to the diectory that you save train.txt and valid.txt. 
 
 ## Introduction
